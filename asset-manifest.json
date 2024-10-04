@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Thinkme/static/css/main.647e71a5.css",
+    "main.js": "/Thinkme/static/js/main.cd22c8a4.js",
+    "static/media/think_cs.png": "/Thinkme/static/media/think_cs.13147fa7220460d61e52.png",
+    "index.html": "/Thinkme/index.html",
+    "main.647e71a5.css.map": "/Thinkme/static/css/main.647e71a5.css.map",
+    "main.cd22c8a4.js.map": "/Thinkme/static/js/main.cd22c8a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.647e71a5.css",
+    "static/js/main.cd22c8a4.js"
+  ]
+}
