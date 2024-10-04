@@ -79,7 +79,7 @@ function App() {
   </div>
 </div>          
           <h2 style={{ position: 'absolute', top: '400vh', left: '50%', transform: `translate(-50%,-50%)` }}>Powering the Future of Creation</h2>    
-          <h2 style={{ position: 'absolute', top: '490vh', left: '50%', transform: `translate(-50%,-50%)` }}>ThinkMe AI is designed to push the boundaries of human-AI interaction, allowing users to explore creativity and productivity.</h2>            
+          <h2 style={{ position: 'absolute', top: '450vh', left: '50%', transform: `translate(-50%,-50%)` }}>ThinkMe AI is designed to push the boundaries of human-AI interaction, allowing users to explore creativity and productivity.</h2>            
           <img src={thinkCS} alt="ThinkMe AI"
         style={{
           maxWidth: '500px', 
